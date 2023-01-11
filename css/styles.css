@@ -1,0 +1,138 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: "Merriweather", serif;
+  background-color: #bfeaf5;
+}
+
+.ist {
+  background-color: #a5f1e9;
+  position: relative;
+  margin-bottom: 0;
+}
+
+.check {
+  text-decoration: underline;
+  font-style: italic;
+}
+.cloud {
+  position: relative;
+  height: 60px;
+  top: 50px;
+  left: 340px;
+}
+h1 {
+  color: #1c315e;
+  padding-top: 90px;
+  margin: auto 0 auto 0;
+  font-size: 90px;
+  font-family: "Sacramento", cursive;
+  line-height: 1;
+}
+.cloud2 {
+  position: absolute;
+  height: 60px;
+  left: 450px;
+}
+
+.profile {
+  height: 300px;
+  margin-top: 20px;
+}
+h2 {
+  font-size: 45px;
+  font-weight: lighter;
+  font-family: "Montserrat", sans-serif;
+  color: #0081c9;
+}
+
+h3 {
+  color: #1c315e;
+  font-size: 30px;
+  line-height: 2;
+}
+
+.code {
+  height: 300px;
+  float: left;
+  margin-right: 20px;
+}
+
+.workout {
+  height: 300px;
+  float: right;
+  margin-left: 20px;
+}
+.reading {
+  height: 270px;
+  float: left;
+  margin-right: 20px;
+}
+
+.third {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.forth {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.fifth {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+p {
+  font-size: 18px;
+}
+
+.ist1 {
+  background-color: #a5f1e9;
+  padding: 20px 0 20px;
+}
+
+.Introduction {
+  width: 30%;
+  margin: 0 auto;
+  line-height: 2;
+}
+.outro {
+  width: 30%;
+  margin: 0 auto;
+  line-height: 2;
+}
+.sixth {
+  padding-top: 30px;
+}
+hr {
+  border: dotted #c0deff 6px;
+  width: 10%;
+  border-bottom: none;
+  margin: 100px auto;
+}
+.link {
+  margin: 10px;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+}
+.link:hover {
+  color: #ffffff;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  background-color: #a5f1e9;
+}
+.oops {
+  color: #1c315e;
+}
+.copyright {
+  padding: 0 10px;
+  color: #ffffff;
+}
